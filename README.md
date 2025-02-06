@@ -17,7 +17,7 @@ This repository contains the **backend** of the **Music Library Management Syste
 ### 1️⃣ **Prerequisites**  
 - Java Development Kit (JDK)  
 - MySQL Server  
-- IDE (e.g., IntelliJ IDEA, Eclipse)  
+- IDE (e.g., IntelliJ IDEA, Eclipse, Netbeans)  
 
 ### 2️⃣ **Database Configuration**  
 - Before running the project, ensure that you have created the database tables as shown in the ER diagram below:  
