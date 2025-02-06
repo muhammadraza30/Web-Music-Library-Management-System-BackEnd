@@ -32,3 +32,7 @@ This repository contains the **backend** of the **Music Library Management Syste
    String url = "jdbc:mysql://localhost:3306/<your_database_name>";
    String username = "<your_database_username>";
    String password = "<your_database_password>";
+
+## 📌 **Frontend Repository**
+   ```sh
+   https://github.com/muhammadraza30/Web-Music-Library-Management-System-FrontEnd
